@@ -1,0 +1,175 @@
+Subject	Department
+Request for IT Support	IT
+Password Reset Request	IT
+Software Installation Assistance	IT
+Network Issue: No Internet Connectivity	IT
+System Crash Report	IT
+Urgent: Server Downtime	IT
+Hardware Failure: Laptop Screen Broken	IT
+Security Alert: Unauthorized Login Attempt	IT
+VPN Access Issues	IT
+Update on Software Patches	IT
+Employee Onboarding Documents	HR
+New Employee Orientation Schedule	HR
+Request for Time Off	HR
+Payroll Inquiry	HR
+Benefits Enrollment	HR
+Vacation Balance Inquiry	HR
+Exit Interview Request	HR
+Annual Performance Review	HR
+Request for HR Policies	HR
+Employee Data Update	HR
+Internal Job Posting	HR
+Invoice Payment Status	Finance
+Budget Approval Request	Finance
+Expense Report Submission	Finance
+Monthly Financial Statement	Finance
+Request for Tax Information	Finance
+Salary Discrepancy Report	Finance
+Reimbursement Request	Finance
+Purchase Order Approval	Finance
+Accounts Payable Inquiry	Finance
+Credit Card Transaction Inquiry	Finance
+Sales Performance Report	Sales
+Client Meeting Follow-up	Sales
+New Lead Submission	Sales
+Request for Sales Materials	Sales
+Sales Target Update	Sales
+Quote for Prospective Client	Sales
+Sales Proposal Review	Sales
+Contract Renewal Notification	Sales
+Product Availability Update	Sales
+Follow-up on Sales Meeting	Sales
+Customer Feedback	Customer Service
+Urgent: Account Lockout	IT
+Troubleshooting Printer Issue	IT
+Request for Network Access	IT
+Cloud Service Access Issues	IT
+Request for New Workstation	IT
+System Upgrade Inquiry	IT
+Cybersecurity Training Request	IT
+Email Account Issues	IT
+Application Error Report	IT
+Data Backup Request	IT
+Payroll Discrepancy	HR
+Personal Leave Request	HR
+HR Policy Clarification	HR
+Employee Benefits Question	HR
+New Hire Paperwork Submission	HR
+Request for Remote Work Approval	HR
+Performance Improvement Plan	HR
+Disciplinary Action Notification	HR
+Job Description Request	HR
+Salary Negotiation Request	HR
+Credit Memo Request	Finance
+Budget Variance Report	Finance
+Annual Tax Filing Reminder	Finance
+Invoice Discrepancy Report	Finance
+Sales Tax Inquiry	Finance
+Request for Financial Forecast	Finance
+Capital Expenditure Approval	Finance
+Petty Cash Report	Finance
+Expense Report Review	Finance
+Year-End Financial Closing	Finance
+Follow-up on Proposal Submission	Sales
+Request for Discount Approval	Sales
+Client Retention Strategy	Sales
+Sales Lead Qualification	Sales
+Sales Training Request	Sales
+Cold Calling Script Review	Sales
+Sales Meeting Invitation	Sales
+Market Research Request	Sales
+Product Demo Request	Sales
+Sales Order Processing	Sales
+Request for Team Building Event	HR
+Employee Training Schedule	HR
+Leave of Absence Request	HR
+HR System Access Issue	HR
+Contractor Payment Status	Finance
+Revenue Report for Q3	Finance
+Payment Reminder	Finance
+Credit Report Request	Finance
+Staff Payroll Query	Finance
+Client Payment Confirmation	Sales
+Customer Order Update	Sales
+Sales Commission Inquiry	Sales
+Feedback on Product Launch	Sales
+Product Pricing Inquiry	Sales
+Customer Contract Review	Sales
+Sales Demo Follow-up	Sales
+Follow-up on Invoice Payment	Finance
+Request for W2 Form	Finance
+Timecard Submission Issue	HR
+Employee Retirement Plan Information	HR
+Employee Exit Checklist	HR
+Staff Wellness Program Request	HR
+Tax Filing Assistance	Finance
+New Purchase Request	Finance
+Financial Policy Inquiry	Finance
+IT System Downtime Report	IT
+Hardware Request for New Employee	IT
+Upgrade Request for Existing Software	IT
+Issue with Email Sync	IT
+System Access Request	IT
+Bug Report for Application	IT
+Update on Security Patch	IT
+Report: Security Breach	IT
+Performance Review Follow-up	HR
+Request for Health Insurance Info	HR
+Company Event RSVP	HR
+Workplace Safety Concern	HR
+Quarterly Financial Audit	Finance
+Request for Payment Terms	Finance
+Request for Financial Assistance	Finance
+Clarification on Business Expenses	Finance
+Budget Proposal Submission	Finance
+Sales Order Confirmation	Sales
+Prospective Client Inquiry	Sales
+Invoice Submission for Services Rendered	Finance
+Proposal for New Product	HR
+Employee Relations Issue	HR
+Team Feedback Request	HR
+Final Paycheck Inquiry	HR
+Payroll Processing Issue	HR
+Company-wide Meeting Update	HR
+Workplace Conflict Resolution	HR
+Employee Rewards Program	HR
+Retirement Plan Options	HR
+Claim Submission for Employee Benefits	HR
+Invoice Status Request	Finance
+Travel Reimbursement Request	Finance
+Vendor Payment Inquiry	Finance
+Monthly Sales Quota Update	Sales
+Sales Campaign Launch Update	Sales
+Sales Webinar Registration	Sales
+Client Contract Renewal	Sales
+Sales Team Availability Update	Sales
+Lead Conversion Rate	Finance
+Quarterly Tax Report	Finance
+Wages Discrepancy	Finance
+Expense Report Query	Finance
+Outstanding Invoice Reminder	Finance
+Sales Pipeline Status	Sales
+Sales Strategy Meeting	Sales
+Client Order Confirmation	Sales
+Quote for Client Request	Sales
+Sales Department Meeting Update	Sales
+HR System Maintenance Notice	HR
+Employee Satisfaction Survey	HR
+Update on PTO Policy	HR
+Exit Procedure Notification	HR
+Job Posting Update	HR
+Employee Grievance Submission	HR
+HR Training Schedule	HR
+Payroll Update for New Year	HR
+Client Payment Received	Finance
+Invoice Due Date Reminder	Finance
+Purchase Approval Request	Finance
+Sales Pipeline Review	Sales
+Follow-up on Lead	Finance
+Client Payment Dispute	Finance
+Product Launch Announcement	Sales
+Sales Promotion Campaign	Sales
+Monthly Sales Forecast	Sales
+Sales Report Submission	Sales
+New Sales Goal for Quarter	Sales
